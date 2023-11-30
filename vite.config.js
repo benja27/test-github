@@ -6,6 +6,6 @@ export default defineConfig({
   build: {
     outDir: './docs',
   },
-  base: '/test-github/',
+  base: '/test/',
   plugins: [react()],
 })
